@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="KTVU HDTV (FOX)">
+    <display-name lang="en">KTVU HDTV (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTVU (FOX)">
+    <display-name lang="en">KTVU (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON HDTV (MNT)">
+    <display-name lang="en">KRON HDTV (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON (MNT)">
+    <display-name lang="en">KRON (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KPIX HDTV (CBS)">
+    <display-name lang="en">KPIX HDTV (CBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KPIX (CBS)">
+    <display-name lang="en">KPIX (CBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KGO HDTV (ABC)">
+    <display-name lang="en">KGO HDTV (ABC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KGO (ABC)">
+    <display-name lang="en">KGO (ABC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+</tv>
